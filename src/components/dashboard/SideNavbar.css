@@ -1,0 +1,16 @@
+.session-calender-slider {
+    float: right;
+  }
+  .A6-session_details .session-calender-slider .session-calender input {
+    width: 100px;
+    margin-right: 40px!important;
+  }
+  .A6-session_details .session-calender-slider .session-calender {
+     width: 175px!important;
+  }
+  .session-calender-slider #prev1{
+
+    padding-right: 30px;
+    position: absolute;
+    right: 28px;
+  }
